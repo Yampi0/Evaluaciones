@@ -1,0 +1,82 @@
+body {
+    margin-left: 4%;
+    margin-right: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.gatos {
+    display: flex;
+    align-items: center;
+    margin: 15px;
+}
+
+.gatos a{
+    margin-left: 40px;
+    font-size: 20px;
+}
+
+.gatos img {
+    width: 450px;
+    height: 200px;
+}
+.perros {
+    display: flex;
+    align-items: center;
+    margin: 15px;
+}
+
+.perros a{
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+.perros img {
+    width: 510px;
+    height: 200px;
+    margin-left: 50px;
+}
+
+.volverAInicio {
+    text-align: right;
+}
+
+.gatos img {
+    display: flex;
+    align-items: center;
+    margin: 50px;
+    width: 30%;
+}
+
+gatos a{
+    margin-left: 80px;
+    font-size: 20px;
+}
+
+.volverAGatos {
+    text-align: right;
+    margin-bottom: 60px;
+}
+
+.contenedor {
+    display: flex;
+    align-items: center; 
+}
+
+.imgDatosGatito {
+    margin-right: 20px;
+}
+
+.imgDatosGatito img{
+    width: 400px; 
+}
+
+.datosGatito ul{
+    list-style: none;
+}
+
+
+
